@@ -1,0 +1,19 @@
+#  Flight Delay Analyzer
+
+This project analyzes flight delay data using Python.
+
+ Features
+
+ Data cleaning with Pandas, Delay analysis , Hourly delay visualization
+
+Technologies
+
+ Python, Pandas ,Matplotlib
+
+ Purpose
+
+To identify peak delay hours and understand flight delay patterns.
+
+Future Improvements
+
+ Add machine learning prediction, Build dashboard
